@@ -4,9 +4,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "types": "index.d.ts",
-  "author": "VelKovacevic",
+  "author": "Brendan Asselstine <brendan@pooltogether.us>",
   "license": "MIT",
-  "url": "https://github.com/macaufi/deploy-eip-1820",
+  "url": "https://github.com/pooltogether/deploy-eip-1820",
   "peerDependencies": {
     "ethers": "^5.0.0"
   },
